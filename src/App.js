@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
+import logo from './plogo3.svg';
 import './App.css';
 import MainBody from './components/MainBody'
 

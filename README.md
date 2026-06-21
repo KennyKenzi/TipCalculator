@@ -12,6 +12,12 @@ Install dependencies:
 npm install
 ```
 
+Some packages may be deprecated or have errors, TRY:
+```bash
+npm audit fix --force
+```
+
+
 Start development server:
 
 ```bash
